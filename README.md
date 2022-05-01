@@ -6,7 +6,7 @@ Prime-Dupe-Checker
 A 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a Dupe Checker to Skyblock
 
 What does it do?
-This mod adds High-Value Dupe checker into your skyblock experience. ![image](https://user-images.githubusercontent.com/104740401/166168697-8892220c-9d93-4a85-8e1c-fc949cd4b2ce.png)
+This mod adds High-Value Dupe checker into your skyblock experience. ![image](https://user-images.githubusercontent.com/104740401/166168729-0f8bf1b9-1efd-4f00-b3dd-a2005e7170a3.png)
 
 
 Why is this useful?
